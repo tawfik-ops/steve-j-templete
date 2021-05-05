@@ -1,0 +1,161 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width:1140px;
+    background-color:white;
+}
+.image1{
+    width:1140px;
+    height: 400px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 0 50px;
+    
+     
+}
+#image2{
+    width:274px; 
+    border: 1px solid red;
+}
+.Quote0{
+    font-family:'Ranchers', cursive;
+    font-size: 32.5px;
+    
+    height:75px;
+    /*border: 1px solid red;*/
+    padding: 15px 0 50px 50px;
+    
+}
+.Quote1{
+    line-height: 120px;
+    padding-left: 60px;
+    font-size: 60px;
+    color: #ececec;
+    font-weight: bold;
+    height: 120px;
+    width: 768px;
+/*    border: 1px solid red; */
+    
+}
+.Content{
+    width:1140px;
+    height:1000px;
+    margin-left:auto;
+    margin-right: auto;
+     
+    
+}
+.mainC{
+    width:800px;
+    height:750px;
+    position: relative;
+    top: 25px;
+    left: 10px;
+     
+   
+     
+}
+.sideC{
+    width:280px;
+    height:750px;
+    float:right;
+    clear:both;
+    position:relative;
+    bottom:738px;
+    /*border: 1px solid red;*/ 
+     
+   
+     
+}
+
+.info{
+    font-size:90%;
+    font-family: 'Dosis',sans-serif;
+    text-align: center;
+}
+
+   .info  td{
+    vertical-align: top;
+    
+    border-bottom: 1px solid #dddddd;
+    padding: 0.2em; 
+}
+
+
+
+.footer{
+    
+   /* padding:30px;
+    padding-left:200px;
+    text-align: center; */
+     
+    background-color:#ececec;
+    height: 250px;
+    
+    
+    
+}
+.quote3{
+    font-size:30px;
+    font-family:'Ranchers', cursive;
+    text-align: center;
+    padding:10px;
+    /*border: 1px solid red;*/
+    position:relative;
+    top: 5px;
+    left: 150px;
+    
+}
+a{
+    color: dodgerblue;
+    text-decoration:none; 
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+.date{
+    width: 100px;
+    height: 7px; 
+    
+    text-align: center;
+    padding: 4px 5px 6px 0;
+    line-height: 26px;
+    float: left;
+    clear: left;
+    font-size: 15px;
+    font-weight: bold;
+    border-top: 1px solid #ccc;
+    margin: -1px 0 0 0;
+    
+    
+   
+    
+    
+}
+
+.disc{
+   width: 625px ;
+    background: #f9f9f9;
+    padding: 8px 12px 8px 8px;
+    float:left;
+    margin:0px;
+    border-top:1px solid #ccc;
+    clear: right;
+    font-size: 15px;
+    position: relative;
+    bottom:1px;
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
